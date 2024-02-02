@@ -1,0 +1,575 @@
+﻿Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3 | Added on Tuesday, December 26, 2023 1:41:04 PM
+
+kullanılmıştı
+==========
+﻿Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Bookmark on page 3 | Added on Tuesday, December 26, 2023 1:42:31 PM
+
+
+==========
+﻿Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Bookmark on page 3 | Added on Tuesday, December 26, 2023 1:42:35 PM
+
+
+==========
+﻿2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 1-1 | Added on Tuesday, December 26, 2023 1:54:06 PM
+
+Hastalıkları teşhis etmede, problem çözmede bizden çok daha iyiler. Dünya şampiyonlarını satrançta, Go’da ve Riziko’da rahatlıkla yendiler. Strateji oyunlarında onlara karşı pek bir şansımız kalmadı
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 27-27 | Added on Tuesday, December 26, 2023 2:08:11 PM
+
+Yapay Zekâ Nedir? Yapay zekâ terimi yıllardır kullanılıyor, ancak ifade ettiği kavram teknolojik gelişmelerle birlikte değişti. Büyük veriye erişim, devasa verilerin işlenmesini sağlayan donanımlar yeni bir yapay zekâ çağına kapı araladı. Bilgisayar programcıları açık ifadelerle tanımlayabilecekleri görevleri yazdıkları programlarla çözebiliyor. Bugün kullandığı- mız metin yazma programları (örneğin Word), tarayıcılar (örneğin Chrome), video oynatıcılar, muhasebe programları gibi yazılımlar, programcılar tarafından hangi durumda nasıl davranacakları ayrıntılı bir şekilde kodlanarak ortaya çıkarıldı. Örneğin bir mesajlaşma programında kullanıcı mesajını yazıp gönder tuşuna bastığı anda programın neler yapması gerektiği adım adım tanımlanmıştır: 3
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Tuesday, December 26, 2023 9:52:04 PM
+
+bugün vardığı son noktada hâlâ genel yapay zekâyı geliştirmekten çok uzağız. Kimilerine göre gelecekte bir gün, belirli görevlerde uzmanlaşan dar yapay zekâ uygulamalarını bir araya
+==========
+Generative Art (Matt Pearson) (Z-Library)  
+- Your Highlight on page xxii-xxii | Added on Wednesday, December 27, 2023 11:03:33 AM
+
+It takes many years to learn to paint, to draw, or to sculpt, but the programming aptitude required to get professional results in generative art can be learned in a matter of days. And if you don’t believe me, I hope this book will prove it. The images in figure i. 7 were generated in only 24 lines of code, which you can view in the listing on the next page. Every time it runs, it produces a different still image.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:26:27 PM
+
+aradan geçen 64 yıla ve yapılan pek çok çalışmaya rağmen bugün yapay zekânın tam olarak ne olduğunu tanımlamak hâlâ çok zor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:26:41 PM
+
+Yapay zekâ terimi ilk olarak 1956 yılında kullanılmıştı. Ancak
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:27:48 PM
+
+Yapay zekâ terimi ilk olarak 1956 yılında kullanılmıştı. Ancak aradan geçen 64 yıla ve yapılan pek çok çalışmaya rağmen
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3 | Added on Saturday, December 30, 2023 11:28:23 PM
+
+Yapay
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:28:46 PM
+
+aradan geçen 64 yıla ve yapılan pek çok çalışmaya rağmen bugün yapay zekânın tam olarak ne olduğunu tanımlamak hâlâ çok zor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:29:34 PM
+
+aradan geçen 64 yıla ve yapılan pek çok çalışmaya rağmen bugün yapay zekânın tam olarak ne olduğunu tanımlamak hâlâ çok zor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:31:16 PM
+
+Yapay zekâ terimi ilk olarak 1956 yılında kullanılmıştı. Ancak aradan geçen 64 yıla ve yapılan pek çok çalışmaya rağmen bugün yapay zekânın tam olarak ne olduğunu tanımlamak hâlâ çok zor.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:32:54 PM
+
+Bugün yapay zekâ denince insanların aklına insan konuşmasını anlayabilen, satranç ve Go gibi strateji oyunlarında insanları yenebilen, arabaları idare edebilen vb. uygulamalar geliyor.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:35:41 PM
+
+Başlangıçta yapay zekâ araştırmalarının ana hedefi bir insan gibi yeni şeyler öğrenebilen, çevresini algılayıp zekâ gerektiren davranışlar sergileyen makineler geliştirmekti
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:37:08 PM
+
+Beklenenin aksine yapay zekânın gelişimi hızlı olmadı. Bugün bir insanın yapabileceği, zekâ gerektiren tüm işlerin üstesinden gelebilecek makineleri ifade etmek için “genel yapay zekâ” terimi kullanılıyor. Günümüzdeki yapay zekâ araştırmaları ise genel yapay zekâya ulaşmaktan çok “dar yapay zekâ” olarak adlandırılan sadece belirli gö- revleri başarmakta ustalaşmış uygulamalara odaklanıyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:39:59 PM
+
+Allen Newel, Herbert A. Simon ve Cliﬀ Shaw 1956 yılında Logic Theorist (Mantık Kuramcısı) adlı ilk yapay zekâ uygulamasını yazdılar
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:45:14 PM
+
+Samuel’in 1952-62 arasında yazdığı, kendi kendine dama oynamasını öğrenen program makine öğrenmesinin ilk örneklerinden oldu.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:50:02 PM
+
+Massachusetts Institute of Technology’den (MIT) Thomas Evans 1963 yılında IQ testlerinde sorulanlara benzer soruları çözebilen Analogy (Benzeşim) isimli programı geliştirdi. Joseph Weizenbaum 1965 yılında insanlarla İngilizce sohbet edebilen Eliza Programını yazdı. Bu program daha sonraları psikoterapist görevi gören bir oyuncak olarak popülerleşti. 1967 yı- lında organik bileşiklerin kütle spektrumunu yorumlayan bir program geliştirildi.1971’de MIT’den Terry Winograd verilen komutları yerine getiren bir robot kol tasarlayıp üretti. 1979 yılında insanların karar verme yeteneğini taklit eden “uzman sistemler” geliştirilmeye başlandı. IBM tarafından geliştirilen satranç programı Deep Blue (Derin Mavi), 1997 yılında, altı oyunluk bir maçta beş beraberlik ve bir galibiyet alarak o dönemki dünya şampiyonu Gary Kasparov’u yenmeyi başardı.2000’lere gelindiğinde internetin de yaygınlaşmasıyla beraber yapay zekâ tabanlı programlar geniş kitlelere ulaşmaya başladı. Bugün günlük hayatımızın her alanında yapay zekâya rastlamak mümkün
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 3-3 | Added on Saturday, December 30, 2023 11:52:15 PM
+
+Yapay zekâ çalışmalarının bugün vardığı son noktada hâlâ genel yapay zekâyı geliştirmekten çok uzağız. Kimilerine göre gelecekte bir gün, belirli görevlerde uzmanlaşan dar yapay zekâ uygulamalarını bir araya getirerek insanların yapabileceği her işin üstesinden gelecek genel yapay zekâya ulaşmak mümkün olacak. Kimilerine göreyse genel yapay zekâ, ulaşılması imkânsız bir hayal. Gerçek her ne olursa olsun, yapay zekâ uygulamaları gün geçtikçe gelişmeye ve hayatımızı kolaylaştırmaya devam ediyor.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:53:10 PM
+
+Tıpkı 100 yıl önce elektriğin her şeyi dönüştürmesi gibi, önümüzdeki birkaç yılda yapay zekânın dönüştüremeyeceği bir endüstri düşünemiyorum
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:55:17 PM
+
+2016’daysa Google Deepmind dünya go şampiyonunu yenince yapay zekânın satrançtan daha karmaşık oyunlarda da başarılı olabileceği
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:55:25 PM
+
+2016’daysa Google Deepmind dünya go şampiyonunu yenince yapay zekânın satrançtan daha karmaşık oyunlarda da başarılı olabileceği görüldü
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:56:24 PM
+
+Yapay zekâ terimini ilk defa 1956’daki Dartmouth Konferansı’nda Prof. John McCarthy kullandı
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:56:46 PM
+
+Sonraki yıllarda çeşitli alanlarda yapay zekâ geliştirilmesi için birçok çalışma yapıldı. IBM’in geliştirdiği Deep Blue adlı bilgisayarın 1997’de dünya
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:57:00 PM
+
+IBM’in geliştirdiği Deep Blue adlı bilgisayarın 1997’de dünya satranç şampiyonu Garry Kasparov’u yenmesi insanların yapay zekâya bakışını değiştiren önemli olaylardan biri oldu.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:57:49 PM
+
+“Tıpkı 100 yıl önce elektriğin her şeyi dönüştürmesi gibi, önümüzdeki birkaç yılda yapay zekânın dönüştüremeyeceği bir endüstri düşünemiyorum. ” Andrew Ng Baidu arama motoru eski bilimsel yöneticisi ve Coursera kurucusu YAPAY ZEKÂ Temel Kavramlar Gürkan Caner Birer [ Bilgisayar Mühendisi Yapay zekâ terimini ilk defa 1956’daki Dartmouth Konferansı’nda Prof. John McCarthy kullandı. Sonraki yıllarda çeşitli alanlarda yapay zekâ geliştirilmesi için birçok çalışma yapıldı. IBM’in geliştirdiği Deep Blue adlı bilgisayarın 1997’de dünya satranç şampiyonu Garry Kasparov’u yenmesi insanların yapay zekâya bakışını değiştiren önemli olaylardan biri oldu.2011
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 26-26 | Added on Saturday, December 30, 2023 11:57:55 PM
+
+de IBM’in Watson adlı yapay zekâ bilgisayarının Ben Bilirim adlı bir televizyon yarışmasında rakiplerini yenmesi yapay zekânın matematiksel olmayan alanlarda da insanları yenebileceğinin sinyaliydi
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 27-27 | Added on Sunday, December 31, 2023 12:01:45 AM
+
+Yapay zekâ terimi yıllardır kullanılıyor, ancak ifade ettiği kavram teknolojik gelişmelerle birlikte değişti. Büyük veriye erişim, devasa verilerin işlenmesini sağlayan donanımlar yeni bir yapay zekâ çağına kapı araladı
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 28-28 | Added on Sunday, December 31, 2023 12:05:14 AM
+
+İşte izlenecek yönergelerin açıkça tanımlanmasının mümkün olmadığı ya da çok zor oldu- ğu görevlerde yapay zekâ devreye girer
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 28-28 | Added on Sunday, December 31, 2023 12:06:03 AM
+
+Yapay zekâ elindeki verilere bakarak görevin tamamlanması için gerekli yönergeleri kendi çıkarmaya çalışır. Sonra da bu yönergeleri yerine getirecek programı kendi oluşturur.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 28-28 | Added on Sunday, December 31, 2023 12:06:22 AM
+
+Bu yaklaşımın başarılı olabilmesi için her durumu içerecek doğru yönergelerin belirlenebileceği çok fazla veri ve kısa zamanda bu yönergelerin çok sayıda deneme yanılma işlemiyle sınanabileceği işlem gücüne sahip bilgisayarlar olması gerekir
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 28-28 | Added on Sunday, December 31, 2023 12:08:30 AM
+
+Sonrasında yapay zekâ belirlediği yönergelere uygun bir program yazar ve onu gerçek ortama benzeyen bir simülasyonda dener. Simülasyon sonuçlarına göre yönergelerini iyileştirir. Bu süreç yeterince iyi bir yönerge seti ortaya çıkana kadar milyonlarca kez tekrarlanır
+==========
+Generative Art (Matt Pearson) (Z-Library)  
+- Your Highlight on page xxii-xxii | Added on Sunday, December 31, 2023 12:16:41 AM
+
+All this code does is iterate through a grid using two loops; then, a function call on line 14 draws a circle at each grid point and displaces it in 3D space using a mathematical variance. Don’t worry if you don’t understand the code, or indeed the previous sentence, at this point: that’s what this book is for. We’ll unpack all these concepts in the first few chapters.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 29-29 | Added on Monday, January 1, 2024 1:16:21 PM
+
+Tablo 1 Yapay zekânın doğal dil işleme alanında yapabileceği bazı işler 5
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 30-30 | Added on Monday, January 1, 2024 1:20:06 PM
+
+Yüz tanıma için kullanılan yapay sinir ağı. Fotoğraf katmanlarda inceleniyor ve her katmanda biraz daha netleştirilerek en sonunda kime ait olduğu tespit ediliyor. Bu tekniğe katmanların oluşturduğu derinlikten dolayı derin öğrenme adı veriliyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 30-30 | Added on Monday, January 1, 2024 1:20:11 PM
+
+Yüz tanıma için kullanılan yapay sinir ağı. Fotoğraf katmanlarda inceleniyor ve her katmanda biraz daha netleştirilerek en sonunda kime ait olduğu tespit ediliyor. Bu tekniğe katmanların oluşturduğu derinlikten
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 30-30 | Added on Monday, January 1, 2024 1:20:24 PM
+
+Yüz tanıma için kullanılan yapay sinir ağı. Fotoğraf katmanlarda inceleniyor ve her katmanda biraz daha netleştirilerek en sonunda kime ait olduğu tespit ediliyor. Bu tekniğe katmanların oluşturduğu derinlikten dolayı derin öğrenme adı veriliyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 30-30 | Added on Monday, January 1, 2024 1:22:30 PM
+
+Makine Öğrenmesi Makine öğrenmesi açıkça programlamaya gerek duymaksızın makinelere öğrenme yetisi kazandırmak için kullanılan bilgisayar bilimi tekniklerini ifade eder. Takviyeli öğrenme, genetik algoritmalar, kural tabanlı öğrenim, öğrenim sınıﬂandırma sistemleri, karar ağaçları, derin öğrenme gibi çok sayıda makine öğrenme algoritması vardır. Bu algoritmalar kullanılarak veri setlerinde anlamlı desenler bulunmaya çalışılır, bulunan desenler yeni verilere uygulanarak sonuç elde edilir. Makine öğrenmesi yapay zekânın temel yapı taşlarından biridir. Yapay zekâ makine öğrenmesi dışında istatistiksel teknikler, geleneksel arama, sembolik çıkarım, mantıksal çıkarım gibi tekniklerden de faydalanır
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 30-30 | Added on Monday, January 1, 2024 1:24:55 PM
+
+Başlangıçta bir yapay sinir ağı girdi ve çıktı- lardan oluşan basit bir devre gibidir. Bir görevi yapması istendiğinde tümüyle rastgele bir sonuç üretir. Örneğin el yazısıyla yazılmış “a” harfini tanıması istediğinde rastgele bir harﬂe dönüş yapar. Aldığı geri bildirimlere göre (“doğru bildin” ya da “yanlış bildin”) o cevabı vermesini sağlayan yolu, yani yapay sinir ağını kuvvetlendirir veya zayıﬂatır. Çok sayıda deneme yanılmanın ardından “a” harfini doğru tanıyan bir model oluşmuş olur.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 30-30 | Added on Monday, January 1, 2024 1:26:48 PM
+
+Tek bir yapay sinir ağı karmaşık problemlerin çözümü için yetersiz kalıyor, bu nedenle birbirine bağlı katmanlardan oluşan sinir ağları kullanı- lıyor. Bu tür çok katmanlı yapay sinir ağları oluşturmak için derin öğrenme denilen başka bir yapay zekâ kavramından faydalanılıyor. Derin öğrenme çok katmanlı modellerin üretilmesi için kullanılan tekniklere verilen ad olarak tanımlanabilir. Yapay sinir ağları, katmanların dizilimi ve katmanlar arasındaki bilgi akış yönüne göre ileri beslemeli, tekrarlı gibi farklı mimarilerde olabiliyor.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 31-31 | Added on Monday, January 1, 2024 1:29:50 PM
+
+Örneğin hat sanatıyla yazılmış şekilleri anlayan bir yazılıma ihtiyacınız varsa yazı tanıma konusunda uzmanlaşmış standart yapay zekâ kütüphaneleri iş görmeyecektir. Bu durumda farklı hat örneklerinin olduğu bir arşivin oluşturulup bilgisayara yüklenmesi gerekir. Bu verilerle derin öğrenme teknikleri kullanılarak, uygun bir mimaride hat sanatına özel bir yapay sinir ağı oluşturulur. Veri ne kadar fazla olursa yapay zekânın başarısı o denli artacaktır
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 31-31 | Added on Monday, January 1, 2024 1:30:04 PM
+
+Sinir ağları makine öğrenmesi içinde bir alt alandır. Bütün yapay zekâ problemleri için sinir ağları kullanmak gerekmeyebilir. Kimi problemler için doğrusal ilkelleme gibi daha basit yöntemlerle çözümler üretilebilir.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 31-31 | Added on Monday, January 1, 2024 1:30:51 PM
+
+2006 NASA ST5 uzay aracı anteni. Antenin şekli en verimli radyasyon yayılımını sağlayacak deseni arayan genetik algoritmayla bulundu.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 31-31 | Added on Monday, January 1, 2024 1:32:27 PM
+
+Evrimsel algoritmalar olarak da bilinen genetik algoritmalar, canlılar arasındaki gen değişimine benzer bir mekanizmayla çalışır. Belirlenen problemi çözmek için olası birkaç çözüm belirlenir. Her bir yazılım bir çözüm yolunu test edecek şekilde programlanır. Program çalıştırılır, sonuçlara göre kötü algoritmalar elenir ve iyiler arasında kod değiş toku- şu yapılır. Tıpkı canlılar arasındaki gen değiş toku- şu gibi olan bu süreç çeşitliliğe neden olur. Böylece yarısını bir algoritmadan diğer yarısını başka bir algoritmadan alan yeni algoritmalar oluşur. Bu işlem milyarlarca defa tekrarlandığında zayıf çözümlerin elendiği, güçlülerin kaldığı bir tablo ortaya çıkar
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 32-32 | Added on Monday, January 1, 2024 1:37:08 PM
+
+Bir tek alanda uzmanlaşan yapay zekâ zayıf ya da dar yapay zekâ olarak adlandırılıyor. Örneğin dünya satranç şampiyonunu yenen yapay zekâ elmayla armudu ayıramaz. Anatol Holt’un deyimiyle “bulundu- ğu odada yangın çıkmışken mükemmel bir satranç hamlesi yapan bir bilgisayar düşünün”. Peki böyle bir makine gerçekten zeki midir? Birçok insana göre değildir, ama farklı işlerde uzmanlaşmış farklı yapay zekâ yazılımları bir arada düşünüldüğünde işler de- ğişiyor. Bir yapay zekâ yazılımı gerçekten ilginizi çekecek haberleri derlerken, diğer yapay zekâ hoşunuza gidecek bir içecek hazırlıyor, bir diğeri kampanya dönemine denk getirip ucuza temizlik malzemesi sipariş ediyor. Tüm bu yapay zekâ yazılımları bir arada çalışarak akıllı ev yazılımını oluşturuyor, birçok kişi için bu ev gerçekten akıllı değil midir
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 32-32 | Added on Monday, January 1, 2024 1:40:10 PM
+
+Genel yapay zekâ ya da insani yapay zekâ gibi adlarla da anılan bu kavramı her konuda insan kadar zeki olan bilgisayar olarak tanımlayabiliriz. Elbette güçlü yapay zekâ geliştirmek zayıf yapay zekâ geliştirmekten çok daha zor, çünkü bilgisayarın neden sonuç ilişkisi kurma, plan yapma, problem çözme, soyut düşünme, karmaşık kuramları kavrama, hızlı öğrenme ve deneyimlerden sonuç çıkarma gibi yetileri olması gerekiyor.2011’de IBM Watson’ın Ben Bilirim adlı televizyon yarışmasında tüm zamanların en başarılı yarışmacıları Brad Rutter’ı ve Ken Jennings’i yenmesi büyük bir başarı olarak sunulsa da IBM Watson bu başarının farkında bile değildi. Sınırları çizilmiş bir alanda çalışabilen bir yapay zekâ geliştirmek nispeten kolay, zayıf yapay zekâdan güçlü yapay zekâya geçiş çok zor. Örneğin e-postalarınızı tarayarak çöp mesajlarla normal mesajları ayırt eden yazılım klasik bir zayıf yapay zekâ olarak değerlendirilebilir. Ancak e-postaları tarayarak ne manaya geldiğini “anlayabilmek” ve buna göre hareket etmek çok daha zor bir görev. Siz bir e-postayı okuduğunuzda bunu anlarsınız, ama bu yapay zekâ için çok zor bir görev. Bilgisayar bilimci Donald Knuth’un dediği gibi “yapay zekâ insanların düşünerek yaptığı birçok şeyi ba- şarıyla yapabiliyor, ancak insanların ve hayvanların dü- şünmeden yaptığı çoğu şeyi yapamıyor”. Bisiklet sürmek 5 yaşındaki bir çocuğun bile düşünmeden yapabileceği bir işken yapay zekânın henüz başaramadığı bir iş. Bizler için hayli kolay görevler yapay zekâ için inanılmaz zorlukta olabiliyor, bu nedenle de güçlü yapay zekânın geliştirilmesi -belki de hiç geliştirilemeyecek- zaman alıyor. Güçlü yapay zekânın geliştirilebileceğini düşünen yüzden fazla bilim insanıyla yapılan bir ankete göre güçlü yapay zekâ düzeyine 2040’ta ulaşılacağı tahmin ediliyor. 8
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 32-32 | Added on Monday, January 1, 2024 1:40:26 PM
+
+Güçlü Yapay Zekâ Bir tek alanda uzmanlaşan yapay zekâ zayıf ya da dar yapay zekâ olarak adlandırılıyor. Örneğin dünya satranç şampiyonunu yenen yapay zekâ elmayla armudu ayıramaz. Anatol Holt’un deyimiyle “bulundu- ğu odada yangın çıkmışken mükemmel bir satranç hamlesi yapan bir bilgisayar düşünün”. Peki böyle bir makine gerçekten zeki midir? Birçok insana göre değildir, ama farklı işlerde uzmanlaşmış farklı yapay zekâ yazılımları bir arada düşünüldüğünde işler de- ğişiyor. Bir yapay zekâ yazılımı gerçekten ilginizi çekecek haberleri derlerken, diğer yapay zekâ hoşunuza gidecek bir içecek hazırlıyor, bir diğeri kampanya dönemine denk getirip ucuza temizlik malzemesi sipariş ediyor. Tüm bu yapay zekâ yazılımları bir arada çalışarak akıllı ev yazılımını oluşturuyor, birçok kişi için bu ev gerçekten akıllı değil midir? Zayıf yapay zekâ birçok alanda şimdiden kullanılmaya başlandı.E-posta adresinize gelen çöp e-postaları yakalayan yazılım, izlediğiniz ve sevdiğiniz filmlere göre size yeni film öneren Netﬂix uygulaması, gideceğiniz yere sizi en hızlı ulaştıracak yolu çizen harita uygulaması günlük hayatta farkına varmadan kullandığı- mız zayıf yapay zekâ örnekleri.Genel yapay zekâ ya da insani yapay zekâ gibi adlarla da anılan bu kavramı her konuda insan kadar zeki olan bilgisayar olarak tanımlayabiliriz. Elbette güçlü yapay zekâ geliştirmek zayıf yapay zekâ geliştirmekten çok daha zor, çünkü bilgisayarın neden sonuç ilişkisi kurma, plan yapma, problem çözme, soyut düşünme, karmaşık kuramları kavrama, hızlı öğrenme ve deneyimlerden sonuç çıkarma gibi yetileri olması gerekiyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 32-32 | Added on Monday, January 1, 2024 1:40:44 PM
+
+Sınırları çizilmiş bir alanda çalışabilen bir yapay zekâ geliştirmek nispeten kolay, zayıf yapay zekâdan güçlü yapay zekâya geçiş çok zor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 32-32 | Added on Monday, January 1, 2024 1:42:07 PM
+
+Bilgisayar bilimci Donald Knuth’un dediği gibi “yapay zekâ insanların düşünerek yaptığı birçok şeyi ba- şarıyla yapabiliyor, ancak insanların ve hayvanların dü- şünmeden yaptığı çoğu şeyi yapamıyor”
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 32-32 | Added on Monday, January 1, 2024 1:43:06 PM
+
+Bisiklet sürmek 5 yaşındaki bir çocuğun bile düşünmeden yapabileceği
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 32-32 | Added on Monday, January 1, 2024 1:43:21 PM
+
+Bilgisayar bilimci Donald Knuth’un dediği gibi “yapay zekâ insanların düşünerek yaptığı birçok şeyi ba- şarıyla yapabiliyor, ancak insanların ve hayvanların dü- şünmeden yaptığı çoğu şeyi yapamıyor”. Bisiklet sürmek 5 yaşındaki bir çocuğun bile düşünmeden yapabileceği bir işken yapay zekânın henüz başaramadığı bir iş. Bizler için hayli kolay görevler yapay zekâ için inanılmaz zorlukta olabiliyor, bu nedenle de güçlü yapay zekânın geliştirilmesi -belki de hiç geliştirilemeyecek- zaman alıyor. Güçlü yapay zekânın geliştirilebileceğini düşünen yüzden fazla bilim insanıyla yapılan bir ankete göre güçlü yapay zekâ düzeyine 2040’ta ulaşılacağı tahmin ediliyor.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 33-33 | Added on Thursday, January 4, 2024 2:10:11 AM
+
+süper yapay zekâ dan da bahsetmekte fayda var. Süper yapay zekâ her konuda insandan çok daha üstün olan yapay zekâ olarak tanımlanıyor ve birçok insanı ürküten de bu tanım
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 33-33 | Added on Thursday, January 4, 2024 2:11:04 AM
+
+Güçlü yapay zekâya ulaşıldığı andan itibaren süper yapay zekânın yolu açılmış olacak
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 33-33 | Added on Thursday, January 4, 2024 2:13:13 AM
+
+Üst soldaki resme baktığınızda siz de bilgisayar da aynı sonucu çıkarabiliyorsunuz: İki farklı gri tonunun sıralı değişerek oluşturduğu bir dikdörtgen. Üst sağdaki şekli tarif etmek de sizin için pek zor değil: Yarı saydam ve mat, iki boyutlu ve üç boyutlu silindir ve küp gibi nesnelerden oluşan bir şekil. Yapay zekâ ise bu şekli anlamakta çok zorlanıyor. Tıpkı ilk resimde olduğu gibi tümünü grinin farklı tonlarında iki boyutlu nesneler olarak algılıyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 33-33 | Added on Thursday, January 4, 2024 2:14:29 AM
+
+Bu örnekler basit düzeyde durağan nesnelerden oluşuyor, yüz ifadeleri gibi değişken ve başka verilerle birlikte değerlendirilmesi gereken konularda yapay zekâ çok daha başarısız
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 33-33 | Added on Thursday, January 4, 2024 2:15:46 AM
+
+Büyük Veri karar vererek bu yönde çalışmaya başlayabilir. Üst soldaki resme baktığınızda siz de bilgisayar da aynı sonucu çıkarabiliyorsunuz: İki farklı gri tonunun sıralı değişerek oluşturduğu bir dikdörtgen. Üst sağdaki şekli tarif etmek de sizin için pek zor değil: Yarı saydam ve mat, iki boyutlu ve üç boyutlu silindir ve küp gibi nesnelerden oluşan bir şekil. Yapay zekâ ise bu şekli anlamakta çok zorlanıyor. Tıpkı ilk resimde olduğu gibi tümünü grinin farklı tonlarında iki boyutlu nesneler olarak algılıyor. Günümüzde akıllı telefonlar ve internete bağlı eş- yalar sayesinde film izlemek, yürümek, uyumak, araba kullanmak, konuşmak, yazmak gibi neredeyse her eylem veri üretiyor. Üretilen bu verilerin büyük veri merkezlerinde toplanmasıyla oluşan veri yığınlarına büyük veri deniyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 33-33 | Added on Thursday, January 4, 2024 2:16:17 AM
+
+Örneğin Tesla’nın otonom sürüş konusunda, Google gibi dev bilişim firmalarına göre en büyük avantajı- nın bugüne kadar sattığı ve sürekli internete bağlı otomobillerden topladığı devasa sürüş verisi oldu- ğu söyleniyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 34-34 | Added on Thursday, January 4, 2024 2:20:04 AM
+
+Neden yapay zekâ bugünlerde popüler oldu diye soracak olursanız, yanıt kısaca donanım olacaktır. İşlemci ve veri depolama cihazlarının maliyetlerinin düşmesi, büyük verinin depolanabilmesine ve bunlar üzerinde karmaşık analizler yapılabilmesine olanak sağladı. Daha önce çok zaman alacağı için test etme imkânı bulanamayan fikirler test edilebilir hale geldi
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 34-34 | Added on Thursday, January 4, 2024 2:24:53 AM
+
+Alan Turing yapay zekânın kuramsal öncüleri arasında gösterilen İngiliz matematikçidir.1950’lerin başında bir yazılımın yapay zekâ olup olmadığını belirlemek için taklit oyunu adında bir test tasarlamıştır. Sonraları Turing testi olarak anılacak bu teste göre bir sorgulayıcı, bir gönüllü ve yapay zekâ üç ayrı odaya yerleştirilir. Sorgulayıcı odalardakilerle mesajlaşarak iletişime geçmektedir. Eğer sorgulayıcı sorduğu sorulara aldığı cevaplara göre hangi odada yapay zekâ olduğunu belirli bir süre içinde anlayamazsa, yapay zekâ Turing testini geçmiş demektir. Turing testinin süresi ve yapay zekânın insan olduğunu sanan ve sanmayan sorgulayıcıların birbirlerine oranı- nın ne olması gerektiği, farklı Turing testlerine göre de- ğişkenlik gösteriyor.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 34-34 | Added on Thursday, January 4, 2024 2:25:05 AM
+
+Neden yapay zekâ bugünlerde popüler oldu diye soracak olursanız, yanıt kısaca donanım olacaktır. İşlemci ve veri depolama cihazlarının maliyetlerinin düşmesi, büyük verinin depolanabilmesine ve bunlar üzerinde karmaşık analizler yapılabilmesine olanak sağladı. Daha önce çok zaman alacağı için test etme imkânı bulanamayan fikirler test edilebilir hale geldi. İnternet hızının artması ve bulut bilişim gibi hizmetlerin sunulmasıyla, donanımları satın almak yerine kullandığın kadar ödeme kolaylığı oluştu. Donanımda erişilen fayda/maliyet oranı zayıf yapay zekâ için yeterli olsa da güçlü yapay zekâ için bilgisayarların işlem gücünün artması gerekiyor. Basit mantıkla, insan zekâsına denk bir yapay zekâ için insan beynine denk işlem gücünde bir bilgisayar gerekli denilebilir. Bugün kullanılan ortalama bilgisayarın işlem gücü bir fare beyninin işlem gücüne denk. Bilgisayar işlemcilerinin mevcut gelişim hızına bakılırsa, 2025’te ortalama bir bilgisayarın işlem kapasitesi insan beynininkine denk hale gelecek. Elbette yeterli donanımın olması güçlü yapay zekâ anlamına gelmiyor, ancak donanım olmadan güç- lü yapay zekâ mümkün değil.1997’de Deep Blue’nun Kasparov’u yenmesinin nedeni satrancı anlaması değil, hesaplama kapasitesinin çok yüksek olmasıydı.Turing Testi Alan Turing yapay zekânın kuramsal öncüleri arasında gösterilen İngiliz matematikçidir.1950’lerin başında bir yazılımın yapay zekâ olup olmadığını belirlemek için taklit oyunu adında bir test tasarlamıştır. Sonraları Turing testi olarak anılacak bu teste göre bir sorgulayıcı, bir gönüllü ve yapay zekâ üç ayrı odaya yerleştirilir. Sorgulayıcı odalardakilerle mesajlaşarak iletişime geçmektedir. Eğer sorgulayıcı sorduğu sorulara aldığı cevaplara göre hangi odada yapay zekâ olduğunu belirli bir süre içinde anlayamazsa, yapay zekâ Turing testini geçmiş demektir. Turing testinin süresi ve yapay zekânın insan olduğunu sanan ve sanmayan sorgulayıcıların birbirlerine oranı- nın ne olması gerektiği, farklı Turing testlerine göre de- ğişkenlik gösteriyor. 10
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 35-35 | Added on Thursday, January 4, 2024 2:27:21 AM
+
+İnsandan ayırt edilemeyecek bir yapay zekâ yapabilmek için bugüne kadar üretilmiş bilgilerin anlaşılabilmesi (bilgi mühendisliği), insan konuşmasının algılanabilmesi (konuşma tanıma), söylenenlerin anlaşılması (doğal dil işleme), cümle kurabilme (doğal dil üretimi), görebilme (görüntü işleme) gibi her biri bilgisayar biliminin alt dalı olan alanlarda ciddi ilerleme kaydedilmesi gerekiyor. n
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 54-54 | Added on Thursday, January 4, 2024 2:30:57 AM
+
+Bir algoritma bilinçli olabilir mi
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 54-54 | Added on Thursday, January 4, 2024 2:31:05 AM
+
+Bir algoritma bilinçli olabilir mi?
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 54-54 | Added on Thursday, January 4, 2024 2:32:23 AM
+
+1960’lardan beri zaman zaman bu düzeydeki yapay zekâ uygulamalarının çok yakın bir gelecekte gerçek olacağı söylense de genelde boş çıkar bu tahminler. Ama son yıllarda sadece akademik makalelerde değil, günlük hayatımıza girmiş, ticarileşmiş uygulamalarda da görebiliyoruz gelinen aşamaları
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 54-54 | Added on Thursday, January 4, 2024 2:35:32 AM
+
+Genelde “derin öğrenme” yöntemini kullanan bu yeni sistemler için eğitim verisi çok önemli. Paralel işlem yapan GPU’lar (grafik işlemciler) gelişmelerde rol oynamış olsa da, asıl elimizdeki çok büyük hacimli veriler önemli gibi görünüyor. İnsanların internete bağlıyken ürettiği ve o sayede devasa veri bankalarında depolanabilen bilgiler, insanlığın “öğrencisi” yapay zekânın gelişiminde çok büyük rol oynuyor. Çünkü artık bilgisayarlar da aynen çocuklar gibi görerek, duyarak ve taklit ederek öğreniyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:43:54 AM
+
+Ana fikir şu: Bahsi geçen bütün verileri (metrekare vs. ) veriyoruz. Ondan sonra da satılan dairelerin kaça satıldığı bilgisini giriyoruz. Hiçbir uzman görüşüne gerek yok, tek zorluk büyük miktarda veri toplamak. Bu verilere dayanarak makine kendi kendini “eğitiyor”. Evet yanlış duymadınız, makine öğreniyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Note on page 56 | Added on Thursday, January 4, 2024 2:46:07 AM
+
+Klasik programlama da ayni sorunu ilk once biz cozuyoruz sonra yazilim sayesinde bilgisayara aktariyoruz. Fakat burda bilgisayara sadece veri, buyuk miktarda veri sagliyoruz bilgisayar bu verilerden kensi ogreniyor. 
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:47:37 AM
+
+Elbette karşımızda zeki ve bilgiye aç bir öğrenci yok. Yapay sinir ağının çalışma ilkesi şu: Veri girişi yapılan hücreler, bu hücrelerin bağlı olduğu başka ara hücreler, bir de sonuç katmanı var. Hücreler arasında sayısal bağlantılar var. Her hücre kendine gelen sayıları topluyor, belli bir katsayı- yı aşıyorsa bağlı olduğu diğer hücrelere sinyal gönderiyor.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:49:06 AM
+
+sinyaller toplamı da algoritmanın çıktısını oluşturuyor. Büyük ölçüde beyindeki nöronların çalışma ilkesinden esinlenilmiş
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:49:10 AM
+
+Büyük ölçüde beyindeki nöronların çalışma ilkesinden esinlenilmiş.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:49:27 AM
+
+Başlangıçta katsayılar tamamen rastgele seçiliyor. Eğitim sırasında sistem şunu yapıyor: Katsayıları nasıl değiştirirsem doğruya daha yakın sonuçlar elde ederim
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:49:44 AM
+
+Söz gelimi, 300 olması gereken sonucu ben 5 buldum. Felaket bir durum. Ama katsayılardaki ufak değişiklikler bunu 6 yapıyorsa iyi, 100 yapıyorsa çok iyi.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:49:53 AM
+
+Başlangıçta katsayılar tamamen rastgele seçiliyor. Eğitim sırasında sistem şunu yapıyor: Katsayıları nasıl değiştirirsem doğruya daha yakın sonuçlar elde ederim? Söz gelimi, 300 olması gereken sonucu ben 5 buldum. Felaket bir durum. Ama katsayılardaki ufak değişiklikler bunu 6 yapıyorsa iyi, 100 yapıyorsa çok iyi
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:51:29 AM
+
+Üstelik öğrenmeye ve kendini geliştirmeye de devam ediyor. Örneğin yeni yerleşime açılan bir semtteki fiyatları yanlış tahmin edebilir, zaten insanlar da muhtemelen hata yapacaktır böyle bir ortamda. Ama o bölgede 5-10 daire satıldıktan ve o veriler sisteme girildikten sonra biraz, 50-100 daireden sonra çok büyük bir iyileşme görmemiz beklenebilir.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 56-56 | Added on Thursday, January 4, 2024 2:51:58 AM
+
+Bu yapılırken programın ana kodları hiçbir şekilde değişmez, programcı desteğine gerek olmaz. Beklenmedik bir ekonomik kriz gerçekleşirse bunu makineye ek bir bilgi olarak girmek gerekmez, sistem olağan veri girişleri sayesinde ortalama emlak satış sayısı ve fiyatındaki düşüşten durumu fark edip kendini uyarlayacaktır. Hatta sistem kötüye gidişi iktisatçılardan çok önce fark edip onları uyarabilir
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 57-57 | Added on Thursday, January 4, 2024 2:53:25 AM
+
+Derin Öğrenme Şimdi de derin öğrenmeye gelelim. Aslında yapay sinir ağının bir türü, ama çok sayıda katman içeriyor ve her katman kendinden önceki daha basit verileri birleştirip daha karmaşık ve anlamlı bütünler üretiyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 57-57 | Added on Thursday, January 4, 2024 2:57:43 AM
+
+Bu sistemin bir başka ilginç özelliği ise öğrenme mekanizmasının içerikten bağımsız olması. Yani ilke olarak, ses tanıyan sistemle görüntü tanıyan sistem tamamen aynı algoritmayla yola çıkabilir, sadece eğitimlerinde kullanılan veriler değişik olacaktır.Unutmayın, her işlemden sonra sisteme “aferin bildin” ya da “olmadı bilemedin” şeklinde bir geri besleme veriyoruz
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 58-58 | Added on Thursday, January 4, 2024 3:03:42 AM
+
+Çok yönlü bu toplumsal problemler gelecek kuşakları uzunca bir süre meşgul edeceğe benzer. Daha teknik ve dar alanda ise belli bir sistemin ahlaken nasıl davranması gerektiği sorunu var
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 58-58 | Added on Thursday, January 4, 2024 3:04:02 AM
+
+Çok yönlü bu toplumsal problemler gelecek kuşakları uzunca bir süre meşgul edeceğe benzer. Daha teknik ve dar alanda ise belli bir sistemin ahlaken nasıl davranması gerektiği sorunu var. Örneğin araç kullanan yapay zekâ tüm trafik kurallarına harfiyen uysa da, yol ve hava koşulları, diğer araçların ve yayaların hatalı davranışları sonucu kendini şöyle bir durumda bulabilir: Düz giderse fren yapsa bile küçük bir çocuğa çarpacak, sağa dönse uçurum, sola dönse dağ. Bir seçim yapmak zorunda. Ne yapmalı
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 38-38 | Added on Thursday, January 4, 2024 3:29:40 AM
+
+Anki, yapay zekâya sahip oyuncak yarış arabaları üretiyor. Oyuncak kutusundan iki yarış arabası ve değişik şekiller ve eğimler verebileceğiniz pist par- çaları çıkıyor. Android ya da IOS telefonunuzla oyuncak arabaları eşleştirerek araçları oluşturduğunuz pistte kullanabiliyorsunuz. Buraya kadar pek sıra dışı bir durum olmasa da asıl eğlence bundan sonra başlıyor. Eğer isterseniz arabalardan birini firmanın geliştirdiği yapay zekâ kullanabiliyor ve onunla yarışabiliyorsunuz. Birkaç turdan sonra yapay zekâ pisti öğ- reniyor ve yarışta sizi geçmeye çalışıyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 42-42 | Added on Thursday, January 4, 2024 3:43:21 AM
+
+Aﬀectiva’nın geliştirdiği duygu tanıma sistemi fotoğrafan ve videodan insanların o an ne hissettiğini tespit edebiliyor. Sistem kızgınlık, küçümseme, tiksinti, korku, mutluluk, hüzün ve şaş- kınlık duygularını %90 başarıyla ölçebiliyor. Birçok kullanım alanı bulunan bu teknoloji, insanların hangi üründen ne kadar hoş- landığını ve reklamların etkisini tespit etmek için kullanılıyor. Bu tür bir teknolojiyle mağazanın önünden geçerken sizi izleyen kamera vitrindeki ürünlere tepkinizden hangi elbiseden hoş- landığınızı anlayacak ve kapıdan girdiğinizde dev ekranda doğrudan hoşunuza gidecek elbiseleri göstermeye başlayacak
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 43-43 | Added on Thursday, January 4, 2024 3:48:49 AM
+
+En azından Prof. John McCarthy yapay puan kırdıklarını belirtebiliyorlargöze almalı, insanlarla karşı kar- zekâ terimini icat ederken araş- . Yapay zekâ cevapları doğ- şıya kalırsa ne yapmalı, yaramazlık tırmalarına fon bulabilmek için biraz rudan değerlendirmiyor, ancak yapıp insanların koyduğu kurallara afili bir terim ortaya attığını itiraf ediyoröğretmenlere önerilerde bulunuyoruymamaya karar verirse ne olur tü- .
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 43-43 | Added on Thursday, January 4, 2024 3:49:04 AM
+
+En azından Prof. John McCarthy yapay puan kırdıklarını belirtebiliyorlargöze almalı, insanlarla karşı kar- zekâ terimini icat ederken araş- . Yapay zekâ cevapları doğ- şıya kalırsa ne yapmalı, yaramazlık tırmalarına fon bulabilmek için biraz rudan değerlendirmiyor, ancak yapıp insanların koyduğu kurallara afili bir terim ortaya attığını itiraf ediyoröğretmenlere önerilerde bulunuyoruymamaya karar verirse ne olur tü- .
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 43-43 | Added on Thursday, January 4, 2024 3:51:17 AM
+
+En azından Prof. John McCarthy yapay puan kırdıklarını belirtebiliyorlargöze almalı, insanlarla karşı kar- zekâ terimini icat ederken araş- . Yapay zekâ cevapları doğ- şıya kalırsa ne yapmalı, yaramazlık tırmalarına fon bulabilmek için biraz rudan değerlendirmiyor, ancak yapıp insanların koyduğu kurallara afili bir terim ortaya attığını itiraf ediyoröğretmenlere önerilerde bulunuyoruymamaya karar verirse ne olur tü- . Medya
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 62-62 | Added on Thursday, January 4, 2024 12:49:35 PM
+
+Günümüzde dahi yapay sinir ağlarının neden bazı mimarilerde daha iyi çalıştığı tam anlaşılamayabiliyor
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 63-63 | Added on Thursday, January 4, 2024 12:53:36 PM
+
+sadece insanlar arasında geçerlidir” diye düşünebilir
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 70-70 | Added on Thursday, January 4, 2024 1:17:23 PM
+
+Şayet matematiği dört işleme indirgersek hesap yapan makinelerin izi 17. yüzyıl Avrupasına kadar sürülebilir. Satranç oynayan bir otomat yapma fikri ise ilk defa 18. yüzyılda Avusturya’da ortaya atıldı. Mekanik Türk isimli sahte otomat, içindeki cüce satranç oyuncusu sayesinde rakiplerini yenebiliyordu. Gerçek satranç bilgisayarları ancak 20. yüzyıl ortalarında belirmeye başladı ve hızla insanlarla rekabete girdiler
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 80-80 | Added on Thursday, January 4, 2024 1:33:48 PM
+
+Danışmanlı Öğrenme (Supervised Learning) Bu yaklaşımda, algoritma, bilinen problem verileri ve bunların kar- şılığında nasıl sonuçlar elde edilebildiğini gösteren bir veri seti ile eğitilir. Danışmansız Öğrenme
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 80-80 | Added on Thursday, January 4, 2024 1:34:01 PM
+
+Makine Öğrenmesindeki Yaklaşımlar Makine Öğrenmesinde Süreçler Danışmanlı Öğrenme (Supervised Learning) Bu yaklaşımda, algoritma, bilinen problem verileri ve bunların kar- şılığında nasıl sonuçlar elde edilebildiğini gösteren bir veri seti ile eğitilir. Danışmansız Öğrenme (Unsupervised Learning) Danışmansız öğrenme yaklaşımında yine eğitim veri seti vardır. Ancak bu veri setinde bilinen problem verileri olmasına karşın bunlardan elde edilebilecek sonuçlar bilinmemektedir. Dolayısıyla algoritma / teknik veriler üzerinden geçerken sonuçlara yönelik sınıﬂandırmayı kendisi yapar. Takviyeli Öğrenme (Reinforcement Learning) Takviyeli öğrenme yaklaşımında algoritmanın elde ettiği bir çözüm karşısında bu çözümün iyi mi kötü mü, doğru mu yanlış mı olduğuna ilişkin dönütler verilir. Algoritma bu şekilde eğitilir ve öğrenir. Yarı Danışmanlı Öğrenme (Semi-Supervised Learning) Bu öğrenme yaklaşımı danışmansız öğrenme ile danışmanlı öğrenme ara-sındadır.
+==========
+Tübitak bilim teknik dergisi yapay zeka kısmı  
+- Your Highlight on page 80-80 | Added on Thursday, January 4, 2024 1:34:23 PM
+
+Makine Öğrenmesindeki Yaklaşımlar Makine Öğrenmesinde Süreçler Danışmanlı Öğrenme (Supervised Learning) Bu yaklaşımda, algoritma, bilinen problem verileri ve bunların kar- şılığında nasıl sonuçlar elde edilebildiğini gösteren bir veri seti ile eğitilir. Danışmansız Öğrenme (Unsupervised Learning) Danışmansız öğrenme yaklaşımında yine eğitim veri seti vardır. Ancak bu veri setinde bilinen problem verileri olmasına karşın bunlardan elde edilebilecek sonuçlar bilinmemektedir. Dolayısıyla algoritma / teknik veriler üzerinden geçerken sonuçlara yönelik sınıﬂandırmayı kendisi yapar. Takviyeli Öğrenme (Reinforcement Learning) Takviyeli öğrenme yaklaşımında algoritmanın elde ettiği bir çözüm karşısında bu çözümün iyi mi kötü mü, doğru mu yanlış mı olduğuna ilişkin dönütler verilir. Algoritma bu şekilde eğitilir ve öğrenir. Yarı Danışmanlı Öğrenme (Semi-Supervised Learning) Bu öğrenme yaklaşımı danışmansız öğrenme ile danışmanlı öğrenme ara-sındadır. Bu öğrenme yaklaşımlarından yola çıkarak, “saf” yapıda bir zeki sistemin, dışarıdan maruz kaldığı veriler neticesinde kendini geliştirmesi ve belirli bir yönde ilerlemesi mümkün. Ancak burada ilk akla gelen şey, gelişen teknoloji neticesinde oldukça gelişmiş makine öğrenmesi yani yapay zekâ tabanlı sistemlerin nelere sebep olabileceğidir. Siber güvenlik konusu da bu durumdan etkilenecekler arasında ön sıralarda yer alır. ÖĞRENME MAKİNE ÖĞRENMESİNDE SÜREÇLER UYGULAMA TEST 52
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 3-3 | Added on Sunday, January 7, 2024 1:59:43 AM
+
+1950 ’rın li yıllarda saklanabildiği programlabilgisayarların - geliştirilmesiyle başlayan “insan gibi düşünen” sistemler yaratma fikri, 1956’da John McCarthy tarafından “yapay zekâ” adıyla kavramlaştırıldı
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 3-3 | Added on Sunday, January 7, 2024 2:00:40 AM
+
+aşırı yüksek beklentileri karşılayamaması ve girilen ekonomik darboğazlar nedeniyle iki defa kış mevsimi yaşadı
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 3-3 | Added on Sunday, January 7, 2024 3:15:13 AM
+
+ama şimdiden bize müthiş ürünler verdiği kesin. Örneğin son yıllarda geliştirilen derin sinir ağları sayesinde makineler verilen bir görevi nasıl yapacaklarını (örneğin bir fotoğrafa bir insan olup olmadığını tespit etmeyi) kendileri öğrenebiliyor
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 3-3 | Added on Sunday, January 7, 2024 3:19:57 AM
+
+Yapay zekâyı genel olarak üç baş- lık altında kategorize etmek mümkün: Bir amaç için özelleşmiş (zayıf) yapay zekâ, çok sayıda görevi yapabilen ve insan yaklaşımına sahip (güç- lü) yapay zekâ, insanlardan çok daha üstün (süper) yapay zekâ
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 4-4 | Added on Sunday, January 7, 2024 3:24:02 AM
+
+Minimum insan müdahalesi ile mü- zik yapma fikri çok eski zamanlara, Antik Yunan’a kadar uzanır. O günden günümüze Pisagor, Plato, Mozart, John Cage, Lejaren Hiller ve daha niceleri müziğin otomatik olarak üretilmesi için çeşitli yöntemlere başvurdu.
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 4-4 | Added on Sunday, January 7, 2024 3:24:12 AM
+
+Son yıllarda ise bu görevi tahmin edeceğiniz üzere yapay zekâ üstlendi. Bir müzisyene veya belirli bir tarza ait bestelerle eğitilmiş yapay sinir ağları, özgün eserler verebiliyor. Bu çalışmalardan birkaçına gelin birlikte bakalım.
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 5-5 | Added on Sunday, January 7, 2024 3:29:18 AM
+
+Resim, matematiğin dokunuş- larıyla güzelleşen en belirgin sanat alanlarından biridir. Örneğin 15. yüzyıl da Brunelleschi ve Masaccio gibi sanatçıların geometri bilgilerini kullanarak resme kazandırdıkları perspektif tekniği, resmin bir anlamda yeniden keşfine imkân sağlamış ve Leonardo, Michelangelo, Donatello, Rafael gibi birçok Rönesans sanatçı- sına unutulmaz şaheserler yaratma imkânı sunmuştur.
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 5-5 | Added on Sunday, January 7, 2024 3:33:46 AM
+
+Montreal Üniversitesi’nden Ian Goodfellow ve arkadaşları, 2014 yılında yayınladıkları bir makalede, GAN (Generative Adversarial Network) adı- nı verdikleri bir tür yapay sinir ağını tanıttı. GAN’lar temel olarak birbirinden farklı amaçlarla çalışan iki sinir ağından oluşuyor. Bunlardan ilki (üretici olan) bir kalpazan gibi sahte veri üretmeye çalışıyor, diğeri (ayırt edici olan) ise bir dedektif gibi kalpazanın kendine sunduğu veri ile asıl olanı karşılaştırıp üretilen verilerin sahte olup olmadığını ayırt etmeye çalışıyor. Resim örneğinde, üretici sinir ağı daha önce insan tarafından çizilmiş bir resim “görmediği” için işe rastgele çizgiler üretmekle başlı- yor ve ürettiği her resmi ayırt edici sinir ağına sunuyor. Ayırt edici sinir ağı insanlar tarafından çizilmiş ger- çek resimleri “görebiliyor” ve üreticiden gelen çizimler ile gerçek resimleri kıyaslayarak farklılıkları listeliyor. Üretici ağ da ayırt edici ağdan gelen geri bildirimleri dikkate alarak çizimlerini iyileştiriyor ve tekrar onaya sunuyor. Bu şekilde sürekli tekrarlayan akış ancak ayırt edici sinir ağı üreticiden gelen çizimleri gerçeklerinden ayırt edemez hale gelince bitiyor. Sonuç olarak insan tarafından çizilmiş resimlere yakın resimler elde edilmiş oluyor. İnsan üretimine yakın çizimler elde etmek için geliştirilen GAN’lar, bilinen resim stillerini taklit ettikleri için çok da yaratıcı sayılmıyorlar. Gerçek Veri Ayırt edici (dedektif)Üretici (kalpazan) Rastgele gürültü 62
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 5-5 | Added on Sunday, January 7, 2024 3:34:00 AM
+
+Montreal Üniversitesi’nden Ian Goodfellow ve arkadaşları, 2014 yılında yayınladıkları bir makalede, GAN (Generative Adversarial Network) adı- nı verdikleri bir tür yapay sinir ağını tanıttı. GAN’lar temel olarak birbirinden farklı amaçlarla çalışan iki sinir ağından oluşuyor. Bunlardan ilki (üretici olan) bir kalpazan gibi sahte veri üretmeye çalışıyor, diğeri (ayırt edici olan) ise bir dedektif gibi kalpazanın kendine sunduğu veri ile asıl olanı karşılaştırıp üretilen verilerin sahte olup olmadığını ayırt etmeye çalışıyor. Resim örneğinde, üretici sinir ağı daha önce insan tarafından çizilmiş bir resim “görmediği” için işe rastgele çizgiler üretmekle başlı- yor ve ürettiği her resmi ayırt edici sinir ağına sunuyor. Ayırt edici sinir ağı insanlar tarafından çizilmiş ger- çek resimleri “görebiliyor” ve üreticiden gelen çizimler ile gerçek resimleri kıyaslayarak farklılıkları listeliyor. Üretici ağ da ayırt edici ağdan gelen geri bildirimleri dikkate alarak çizimlerini iyileştiriyor ve tekrar onaya sunuyor. Bu şekilde sürekli tekrarlayan akış ancak ayırt edici sinir ağı üreticiden gelen çizimleri gerçeklerinden ayırt edemez hale gelince bitiyor. Sonuç olarak insan tarafından çizilmiş resimlere yakın resimler elde edilmiş oluyor. İnsan
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 5-5 | Added on Sunday, January 7, 2024 3:34:14 AM
+
+Montreal Üniversitesi’nden Ian Goodfellow ve arkadaşları, 2014 yılında yayınladıkları bir makalede, GAN (Generative Adversarial Network) adı- nı verdikleri bir tür yapay sinir ağını tanıttı. GAN’lar temel olarak birbirinden farklı amaçlarla çalışan iki sinir ağından oluşuyor. Bunlardan ilki (üretici olan) bir kalpazan gibi sahte veri üretmeye çalışıyor, diğeri (ayırt edici olan) ise bir dedektif gibi kalpazanın kendine sunduğu veri ile asıl olanı karşılaştırıp üretilen verilerin sahte olup olmadığını ayırt etmeye çalışıyor. Resim örneğinde, üretici sinir ağı daha önce insan tarafından çizilmiş bir resim “görmediği” için işe rastgele çizgiler üretmekle başlı- yor ve ürettiği her resmi ayırt edici sinir ağına sunuyor. Ayırt edici sinir ağı insanlar tarafından çizilmiş ger- çek resimleri “görebiliyor” ve üreticiden gelen çizimler ile gerçek resimleri kıyaslayarak farklılıkları listeliyor. Üretici ağ da ayırt edici ağdan gelen geri bildirimleri dikkate alarak çizimlerini iyileştiriyor ve tekrar onaya sunuyor. Bu şekilde sürekli tekrarlayan akış ancak ayırt edici sinir ağı üreticiden gelen çizimleri gerçeklerinden ayırt edemez hale gelince bitiyor. Sonuç olarak insan tarafından çizilmiş resimlere yakın resimler elde edilmiş oluyor.
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 5-5 | Added on Sunday, January 7, 2024 3:34:20 AM
+
+İnsan üretimine yakın çizimler elde etmek için geliştirilen GAN’lar, bilinen resim stillerini taklit ettikleri için çok da yaratıcı sayılmıyorlar
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 7-7 | Added on Sunday, January 7, 2024 3:44:12 AM
+
+Stil Transferi Leon Gatys’ın çalışmasında ise iki resmi harmanlamak mümkün ve çalışma mantığı kısaca şu şöyle: İçerik (I) ve stil (S) olarak kullanmak istediğiniz iki resim belirliyorsunuz. Kullandığınız derin öğrenme ağı, boş bir zeminden başlayıp resim oluşturmaya başlıyor. Bunu yaparken de resmi içerik olarak I resmine, stil olarak S resmine benzeyecek şekilde değiştiriyor. Facebook’un ve Prisma’nın da kullandığı bu algoritmanın örnek sonuçlarını aşağıda görebilirsiniz
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 8-8 | Added on Sunday, January 7, 2024 3:54:58 AM
+
+Basit defmiz bir örnek birtakım üzerinden
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 8-8 | Added on Sunday, January 7, 2024 3:55:06 AM
+
+Yapay Sinir Ağları Nasıl Çalışır haklısın.“tamam.haklısın. tamam iyi.“tamam iyi.evet, tam burada. hayır şimdi değil.“hayır şimdi değil.“hemen benimle konuş. lütfen şimdi benimle konuş. şimdi seninle konuşacağım.“Şimdi seninle konuşacağım.“Şimdi benimle konuşmalısın. Yukarıdaki satırlar Google’ın yapay zekâ projelerinden birine ait ve görüldüğü üzere pek de ba- şarılı sayılmaz. Çalışma mantığı basitçe şöyle: Binlerce kitabı tarayarak beslenen bu algoritmalara bir cümle veriyorsunuz, o da verdiğiniz cümleye göre onu yazmış olması en muhtemel sanatçıyı bulup onun tarzında yazının devamını getiriyor. Baştan sona bütünlüğü sağ- lamak gerektiğinden edebiyat yapay zekâ için hayli zorlu bir uğraş. Hatta yapay zekânın sanatta en zayıf olduğu alanın edebiyat oldu- ğunu söyleyebiliriz. Bu nedenle çalışmaların kapsamı genelde kısa tutuluyor. Şimdilik sonuçlar çok parlak olmasa da arada başarılı örnekler de çıkmıyor değil. Örneğin Future Üniversitesi Hakodate’dan bir ekip, geliştirdiği yapay zekâ ile ortaklaşa kısa bir roman yazarak Japon Edebiyat Ödülleri yarışmasına katıldı. Yarışmayı kazanamasalar da ilk turu geçerek önemli bir başarıya imza attılar. Basit defmiz bir örnek birtakım üzerinden bilgiler modelin verildiğinde nasıl bir eğitildiğini evin fyatını inceleyelimtahmin eden .He- bir model geliştirmek olsun. Diğer bir deyişle amacımız, fyat hariç eve ait başka bilgiler ile ev fyatları arasında bir ilişki (formül) bulmak. Bunun için öncelikle fyatlarını bildiğimiz evleri içeren bir veri listesi hazırlıyoruz. Listede ev fyatları ve eve ait başka bilgiler (oda sayısı, m2 vs) bulunuyor. Modelimiz bu listedeki tüm evlerin özelliklerine ve fyatlarına bakarak bir ilişki bulmaya çalışacak. Şekildeki yapay sinir ağı üzerinden devam edersek, eve ait ek bilgiler modelin girdileri (sarı renkli sinirler). Mavi renkli sinirler ise girdiler ile ev fyatları arasındaki ilişkiyi keşfedecek kısım (gizli katman). Her mavi sinir, kendinden önceki sinirlerden gelen bilgileri bazı sayılarla (ağırlık) çarpıp topluyor ve daha önce belirlediğimiz bir fonksiyona sokuyor. Çıkan sonucu da kendinden sonraki sinirlere iletiyor. Bu süreç, sonuç katmanına (yeşil sinirlere) kadar böyle devam ediyor. Sonuç katmanında ise artık bir tahmin oluşuyor. Ancak öğrenme tek seferde olup biten bir şey değil, mavi sinirlerde farklı ağırlıkların denenmesiyle sürekli tekrarlayan bir süreç. Temel amaç, tahminimiz ile gerçek fyat arasındaki farkın en düşük olacağı ağırlıklar bulmak. Bunun için farklı farklı ağırlıklar akıllı bir yöntemle deneniyor. Kısmi türevler yardımıyla, hangi ağırlığı ne kadar değiştirirsek hatamızın (evin gerçek fyatı ile tahmini fyatı arasındaki fark) en aza ineceği hesaplanıyor ve ağırlıklar o yönde değiştiriliyor. İdeal ağırlıkları bulduğumuzda modelin öğrenme süreci bitmiş oluyor. Artık fyatını bilmediğimiz bir evin özelliklerini girdiğimizde, model daha önceden öğrendiği ağırlıkları kullanarak bir evin fyatını tahmin edebilecek. Resimde örneğini gördüğümüz yapay sinir ağının katman sayısını, bağlantı sayısını ve şeklini değiştirerek farklı alanlarda daha iyi performans gösteren mimariler elde etmek mümkün. Örneğin resim çalış- maları için konvolüsyonel sinir ağları (CNN), dizi öğrenimleri için ise yinelenen sinir ağları (RNN) yaygın olarak kullanılıyor
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 8-8 | Added on Sunday, January 7, 2024 3:55:35 AM
+
+Resimde örneğini gördüğümüz yapay sinir ağının katman sayısını, bağlantı sayısını ve şeklini değiştirerek farklı alanlarda daha iyi performans gösteren mimariler elde etmek mümkün. Örneğin resim çalış- maları için konvolüsyonel sinir ağları (CNN), dizi öğrenimleri için ise yinelenen sinir ağları (RNN) yaygın olarak kullanılıyor
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 8-8 | Added on Sunday, January 7, 2024 3:55:58 AM
+
+Basit defmiz bir örnek birtakım üzerinden bilgiler modelin verildiğinde nasıl bir eğitildiğini evin fyatını inceleyelimtahmin eden .He- bir model geliştirmek olsun. Diğer bir deyişle amacımız, fyat hariç eve ait başka bilgiler ile ev fyatları arasında bir ilişki (formül) bulmak. Bunun için öncelikle fyatlarını bildiğimiz evleri içeren bir veri listesi hazırlıyoruz. Listede ev fyatları ve eve ait başka bilgiler (oda sayısı, m2 vs) bulunuyor. Modelimiz bu listedeki tüm evlerin özelliklerine ve fyatlarına bakarak bir ilişki bulmaya çalışacak. Şekildeki yapay sinir ağı üzerinden devam edersek, eve ait ek bilgiler modelin girdileri (sarı renkli sinirler). Mavi renkli sinirler ise girdiler ile ev fyatları arasındaki ilişkiyi keşfedecek kısım (gizli katman). Her mavi sinir, kendinden önceki sinirlerden gelen bilgileri bazı sayılarla (ağırlık) çarpıp topluyor ve daha önce belirlediğimiz bir fonksiyona sokuyor. Çıkan sonucu da kendinden sonraki sinirlere iletiyor. Bu süreç, sonuç katmanına (yeşil sinirlere) kadar böyle devam ediyor. Sonuç katmanında ise artık bir tahmin oluşuyor. Ancak öğrenme tek seferde olup biten bir şey değil, mavi sinirlerde farklı ağırlıkların denenmesiyle sürekli tekrarlayan bir süreç. Temel amaç, tahminimiz ile gerçek fyat arasındaki farkın en düşük olacağı ağırlıklar bulmak. Bunun için farklı farklı ağırlıklar akıllı bir yöntemle deneniyor. Kısmi türevler yardımıyla, hangi ağırlığı ne kadar değiştirirsek hatamızın (evin gerçek fyatı ile tahmini fyatı arasındaki fark) en aza ineceği hesaplanıyor ve ağırlıklar o yönde değiştiriliyor. İdeal ağırlıkları bulduğumuzda modelin öğrenme süreci bitmiş oluyor. Artık fyatını bilmediğimiz bir evin özelliklerini girdiğimizde, model daha önceden öğrendiği ağırlıkları kullanarak bir evin fyatını tahmin edebilecek. Resimde örneğini gördüğümüz yapay sinir ağının katman sayısını, bağlantı sayısını ve şeklini değiştirerek farklı alanlarda daha iyi performans gösteren mimariler elde etmek mümkün. Örneğin resim çalış- maları için konvolüsyonel sinir ağları (CNN), dizi öğrenimleri için ise yinelenen sinir ağları (RNN) yaygın olarak kullanılıyor.
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 9-9 | Added on Sunday, January 7, 2024 3:58:22 AM
+
+Ancak sanatın psikolojik boyutunu da dikkate alırsak işin rengi değişiyor. Çünkü o zaman kusursuzluğun kendisinden çok, eserin “kusurlu” bir insanın elinden çıkabilmiş olmasını önemsiyoruz
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 9-9 | Added on Sunday, January 7, 2024 3:58:45 AM
+
+Nitekim ünlü Rus yazar Tolstoy için sanat bir el işi değil, sanatçının yaşadığı duyguların aktarımıdır
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 9-9 | Added on Sunday, January 7, 2024 4:00:15 AM
+
+Her iki durumda da ortaya çıkan ürünün yaratıcıları ne yaptıklarının farkında değildir
+==========
+2018_aralik_613_bilim_ve_teknik_58  
+- Your Highlight on page 9-9 | Added on Sunday, January 7, 2024 4:01:15 AM
+
+Atalarımızın binlerce yıl önce mağara duvarlarına çizdiği resimler bizim için ne ise, gü- nümüz yapay zekâsının sanatsal denemeleri de gelecek nesiller için aynı anlamı taşıyabilir.
+==========
+Steal Like an Artist 10 Things Nobody Told You About Being Creative (Austin Kleon) (Z-Library) (Steal Like an Artist)
+- Your Bookmark on page 14 | Location 59 | Added on Saturday, January 13, 2024 1:31:50 AM
+
+
+==========
+Layout essentials 100 design principles for using grids (Tondreau, Beth) (Z-Library) (Beth Tondreau)
+- Your Highlight on page 13 | Location 235-235 | Added on Tuesday, January 23, 2024 7:24:27 PM
+
+Consistent color of running copy
+==========
+Layout essentials 100 design principles for using grids (Tondreau, Beth) (Z-Library) (Beth Tondreau)
+- Your Highlight on page 13 | Location 235-235 | Added on Tuesday, January 23, 2024 7:24:35 PM
+
+springs from size, space, width, and line breaks. Consistent color of running copy
+==========
